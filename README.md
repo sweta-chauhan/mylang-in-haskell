@@ -1,4 +1,4 @@
-# shask-lang
+# swhask-lang
 
 --------------------------
 ## Author :- Sweta Kumari
