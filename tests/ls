@@ -1,0 +1,14 @@
+fact(n):
+{
+if (n==0)
+   {
+     return 1
+   }
+return n*fact(n-1)
+}
+
+main():
+{
+  x = fact(5)
+  return x 
+}
